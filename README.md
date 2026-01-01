@@ -3,9 +3,4 @@
 
  <img src="https://www.codewars.com/users/youradrien/badges/large" />
 
-<h1 align="left"> C/C++ && C# </h1>
-<h4 align="left">  SPLINK very soon (C#, HLSL)</h4>
-
-
-
 
